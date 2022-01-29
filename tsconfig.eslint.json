@@ -1,0 +1,4 @@
+{
+	"extends": "@smccarrick/sm-config/tsconfig.json",
+  "include": [".eslintrc.js"]
+}
